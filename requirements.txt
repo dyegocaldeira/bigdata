@@ -1,0 +1,6 @@
+pymongo
+mysqlclient
+mysql-connector-python
+pymysql
+python-dotenv
+pandas
